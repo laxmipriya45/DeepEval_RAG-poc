@@ -1,0 +1,6 @@
+pandas
+ollama
+deepeval
+pytest
+chromadb
+sentence-transformers
